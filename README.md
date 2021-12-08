@@ -9,14 +9,14 @@ The video course for this codebase is located [here](https://www.youtube.com/wat
 
 To deploy this project to Gitpod, click this button:
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#github.com/dabit3/full-stack-ethereum)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#github.com/stack4world/hardhat-ethers-ethereum)
 
 Once the setup is complete, import the rpc endpoing running on Gitpod into your wallet as a custom RPC.
 
 For instance, your RPC enpoint will probably look something like this:
 
 ```sh
-https://8545-sapphire-pigeon-uiroo9v8.ws-eu18.gitpod.io/
+https://8545-orange-bonobo-60686u35.ws-us21.gitpod.io
 ```
 
 The ChainID should be 1337, and you may need to delete a localhost configuration if you already have that set up.
@@ -26,7 +26,7 @@ The ChainID should be 1337, and you may need to delete a localhost configuration
 1. Clone the repo
 
 ```sh
-git clone https://github.com/dabit3/full-stack-ethereum.git
+git clone https://github.com/stack4world/hardhat-ethers-ethereum.git
 ```
 
 2. Install the dependencies
